@@ -1,0 +1,32 @@
+baseURL = 'https://puppygirl.onl/'
+languageCode = 'en-us'
+title = "Lulu's Microblog!"
+copyright = 'lulusilly'
+enableRobotsTXT = true
+theme = "til"
+themesDir = "themes/"
+
+[outputs]
+  home = ['html']
+  section = ['html', 'rss', 'json']
+  page = ['html']
+
+[menus]
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 30
+  [[menus.main]]
+    name = 'Graph'
+    pageRef = '/graph'
+    weight = 40
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = 'tokyonight-night'
+
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
