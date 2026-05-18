@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Lulu&#39;s Microblog!</title>
-    <link>http://localhost:52824/tags/</link>
-    <description>Recent content in Tags on Lulu&#39;s Microblog!</description>
+    <title>Tags on puppygirl.onl</title>
+    <link>http://localhost:42095/tags/</link>
+    <description>Recent content in Tags on puppygirl.onl</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>lulusilly</copyright>
-    <atom:link href="http://localhost:52824/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42095/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
