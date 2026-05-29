@@ -2,17 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:42095/</loc>
+    <loc>http://localhost:33677/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:33677/categories/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:33677/tags/cig/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:33677/tags/cigarette/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:33677/tags/drugs/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:33677/tags/experimentation/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:33677/categories/irl/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:33677/posts/trying-cigarettes/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:33677/categories/personal/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:33677/posts/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:33677/tags/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:33677/posts/lulu-update-2025-20-10/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:42095/posts/lulu-update-2025-20-10/</loc>
-    <lastmod>2025-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:42095/posts/</loc>
-    <lastmod>2025-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:42095/categories/</loc>
-  </url><url>
-    <loc>http://localhost:42095/tags/</loc>
   </url>
 </urlset>

@@ -2,4 +2,4 @@
 
 This is simply a webpage for my more personal writings. Enjoy...
 
-
+<img src="/images/susie_wat.png">

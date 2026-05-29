@@ -2,10 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on puppygirl.onl</title>
-    <link>http://localhost:42095/categories/</link>
+    <link>http://localhost:33677/categories/</link>
     <description>Recent content in Categories on puppygirl.onl</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:42095/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:33677/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Irl</title>
+      <link>http://localhost:33677/categories/irl/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33677/categories/irl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:33677/categories/personal/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33677/categories/personal/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

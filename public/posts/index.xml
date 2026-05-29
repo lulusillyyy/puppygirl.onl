@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on puppygirl.onl</title>
-    <link>http://localhost:42095/posts/</link>
+    <link>http://localhost:33677/posts/</link>
     <description>Recent content in Posts on puppygirl.onl</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:42095/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:33677/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2025-20-10 - Main Site Update</title>
-      <link>http://localhost:42095/posts/lulu-update-2025-20-10/</link>
+      <title>My Experience Trying Cigarettes for the First Time</title>
+      <link>http://localhost:33677/posts/trying-cigarettes/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33677/posts/trying-cigarettes/</guid>
+      <description>&lt;p&gt;So a few weeks ago I had my first cigarette. Unfortunately I didn&amp;rsquo;t record myself in a corny manner, as I was at work when I did it.&lt;/p&gt;&#xA;&lt;h1 id=&#34;backstory&#34;&gt;Backstory&lt;/h1&gt;&#xA;&lt;p&gt;Honestly all that happened was I found a pack of Newports hidden in the guard booth at one of the spots I&amp;rsquo;m frequently posted at by the security company I work for as a second job. The moment I saw it I began to think about what it&amp;rsquo;d be like to smoke a cig. I didn&amp;rsquo;t have a lighter on hand, so I was forced to wait until I got off my shift to get one. Unfortunately, I got cold feet and decided against it since one of my friends was trying to urge me not to go through with it. The night after, however, I decided I&amp;rsquo;d take the chance and purchase a cheap lighter from the gas station on my way home from work. That weekend I would smoke my first cigarette while I was on the job.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Main Site Update</title>
+      <link>http://localhost:33677/posts/lulu-update-2025-20-10/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42095/posts/lulu-update-2025-20-10/</guid>
+      <guid>http://localhost:33677/posts/lulu-update-2025-20-10/</guid>
       <description>&lt;p&gt;Made some progress on fixing minor issues with &lt;a href=&#34;https://luluslly.xyz/&#34;&gt;the main site&lt;/a&gt;, including modifying the site CSS to better reflect my intended viewing of it for some devices/browsers with differing CSS rendering.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve also finally deployed this site properly, with everything (hopefully) working. Honestly depending on these Hugo themes to carry my ass in making the site responsive LOL.&lt;/p&gt;&#xA;&lt;p&gt;Regarding more personal matters, this week marks the beginning of my first full-time job. I&amp;rsquo;m hoping that I&amp;rsquo;ll be able to s̵t̵e̵a̵l̵ make use of functional e-wasted machines for my server cluster. I plan on providing more details in the near future.&lt;/p&gt;</description>
     </item>
   </channel>

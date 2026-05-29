@@ -1,5 +1,5 @@
 ---
-title: 2025-20-10 - Main Site Update 
+title: Main Site Update 
 date: 2025-10-20
 slug: lulu-update-2025-20-10
 ---
