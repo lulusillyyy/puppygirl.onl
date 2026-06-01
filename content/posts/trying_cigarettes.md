@@ -1,6 +1,6 @@
 ---
 title: My Experience Trying Cigarettes for the First Time
-date: 31 May 2026
+date: 2026-06-01
 categories:
     - personal
     - irl
