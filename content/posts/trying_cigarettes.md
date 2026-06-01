@@ -1,6 +1,6 @@
 ---
 title: My Experience Trying Cigarettes for the First Time
-date: 19 May 2026
+date: 31 May 2026
 categories:
     - personal
     - irl
@@ -19,4 +19,4 @@ Honestly all that happened was I found a pack of Newports hidden in the guard bo
 
 # The Experience Itself
 
-Honestly not much to write home about. Something tells me I have some sort of natural tolerance to nicotine, as I barely felt anything when I smoked my first cig. I found it quite amusing, considering everything I'd heard prior about how addicting cigarettes are (which is still true, don't use my experience as advice kids). The taste of menthol lingered for a few hours, but I became tolerant to it very quickly - especially after smoking a few more times on subsequent shifts.
+Honestly not much to write home about. Something tells me I have some sort of natural tolerance to nicotine, as I barely felt anything when I smoked my first cig. I found it quite amusing, considering everything I'd heard prior about how addicting cigarettes are (which is still true, don't use my experience as advice kids). The taste of menthol lingered for a few hours, but I became tolerant to it very quickly - especially after smoking a few more times on subsequent shifts. I think the only effect cigs have on me is keeping me awake a little longer after I get home from work past midnight. Not by very much, however, as I already manage to stay up about 30 minutes to an hour without ripping one. Feels cool though, for what it's worth.
